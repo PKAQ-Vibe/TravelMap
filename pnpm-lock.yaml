@@ -11,9 +11,18 @@ importers:
       '@antv/l7':
         specifier: 2.29.1
         version: 2.29.1
+      '@antv/l7-component':
+        specifier: 2.29.1
+        version: 2.29.1
       '@antv/l7-maps':
         specifier: 2.29.1
         version: 2.29.1
+      animal-island-ui:
+        specifier: ^1.10.0
+        version: 1.10.0(classnames@2.5.1)(react-dom@19.3.0(react@19.3.0))(react@19.3.0)
+      classnames:
+        specifier: ^2.5.1
+        version: 2.5.1
       react:
         specifier: 19.3.0
         version: 19.3.0
@@ -281,6 +290,14 @@ packages:
   '@webgpu/types@0.1.72':
     resolution: {integrity: sha512-0cF7RFM2edNoiIS1ODJp0/Gzv4/xSXhwoR0YCza+OWpJWtn4wmo9DvK91aLlH9+uUnwIriP7ZiC3WitmyhuzBw==}
 
+  animal-island-ui@1.10.0:
+    resolution: {integrity: sha512-8gIRYwERt36VILfil34e6TAfJPwH9iGejbrV51sQU+0TsHyBk+LVtC16rnRvo90HLwt7vMyGh3CL+kCK71iCXw==}
+    engines: {node: '>=18'}
+    peerDependencies:
+      classnames: ^2.5.1
+      react: '>=17.0.0'
+      react-dom: '>=17.0.0'
+
   arr-union@3.1.0:
     resolution: {integrity: sha512-sKpyeERZ02v1FeCZT8lrfJq5u6goHCtpTAzPwJYe7c8SPFOboNjNg1vz2L4VTn9T4PQxEx13TbXLmYUcS6Ug7Q==}
     engines: {node: '>=0.10.0'}
@@ -297,6 +314,9 @@ packages:
 
   bytewise@1.1.0:
     resolution: {integrity: sha512-rHuuseJ9iQ0na6UDhnrRVDh8YnWVlU6xM3VH6q/+yHDeUH2zIhUzP+2/h3LIrhLDBtTqzWpE3p3tP/boefskKQ==}
+
+  classnames@2.5.1:
+    resolution: {integrity: sha512-saHYOzhIQs6wy2sVxTM6bUDsQO4F50V9RQ22qBpEdCW+I+/Wmke2HOl6lS6dTpdxVhb88/I6+Hs+438c3lfUow==}
 
   csscolorparser@1.0.3:
     resolution: {integrity: sha512-umPSgYwZkdFoUrH5hIq5kf0wPSXiro51nPw0j2K/c83KflkPSTBGMz6NJvMB+07VlL0y7VPo6QJcDjcgKTTm3w==}
@@ -478,6 +498,11 @@ packages:
   lightningcss@1.33.0:
     resolution: {integrity: sha512-WkUDrojuJs0xkgGf2udWxa3yGBRxPtxUkB79i6aCZLRgc7PM8fZe9TosfPDcvEpQZbuFASnHYmRLBLUbmLOIIA==}
     engines: {node: '>= 12.0.0'}
+
+  lucide-react@1.44.0:
+    resolution: {integrity: sha512-2egNApH4hX4j/qdCgRublh88+9u3mEhz9iSlW5ckm4kaQEqZbXbMr0l5u5JZLy8nmWRx2dbHGQkEDYz6C9aCgw==}
+    peerDependencies:
+      react: ^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0
 
   mapbox-gl@1.13.3:
     resolution: {integrity: sha512-p8lJFEiqmEQlyv+DQxFAOG/XPWN0Wp7j/Psq93Zywz7qt9CcUKFYDBOoOEKzqe6gudHVJY8/Bhqw6VDpX2lSBg==}
@@ -952,6 +977,13 @@ snapshots:
 
   '@webgpu/types@0.1.72': {}
 
+  animal-island-ui@1.10.0(classnames@2.5.1)(react-dom@19.3.0(react@19.3.0))(react@19.3.0):
+    dependencies:
+      classnames: 2.5.1
+      lucide-react: 1.44.0(react@19.3.0)
+      react: 19.3.0
+      react-dom: 19.3.0(react@19.3.0)
+
   arr-union@3.1.0: {}
 
   assign-symbols@1.0.0: {}
@@ -966,6 +998,8 @@ snapshots:
     dependencies:
       bytewise-core: 1.2.3
       typewise: 1.0.3
+
+  classnames@2.5.1: {}
 
   csscolorparser@1.0.3: {}
 
@@ -1089,6 +1123,10 @@ snapshots:
       lightningcss-linux-x64-musl: 1.33.0
       lightningcss-win32-arm64-msvc: 1.33.0
       lightningcss-win32-x64-msvc: 1.33.0
+
+  lucide-react@1.44.0(react@19.3.0):
+    dependencies:
+      react: 19.3.0
 
   mapbox-gl@1.13.3:
     dependencies:

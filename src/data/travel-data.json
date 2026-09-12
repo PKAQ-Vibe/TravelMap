@@ -1,0 +1,76 @@
+{
+  "coordinateSystem": "GCJ-02",
+  "source": "高德地图 / L7 Editor 地名检索",
+  "updatedAt": "2026-09-12",
+  "destinations": [
+    {
+      "name": "哈尔滨",
+      "date": "2026年10月1日",
+      "dateTime": "2026-10-01",
+      "center": [126.6272082, 45.7701153],
+      "places": [
+    { "name": "红专街早市", "officialName": "红专街早市", "searchName": "红专街早市", "imageUrl": "/images/places/01.jpg", "imageTitle": "哈尔滨红专早市：5点开始的烟火盛宴", "amapId": "B0JKKA679X", "adcode": "230102", "typecode": "060200", "address": "通江街和红专街交叉口通江街86号", "lng": 126.614854, "lat": 45.772316, "type": "市集", "district": "道里区", "city": "哈尔滨" },
+    { "name": "中央大街", "officialName": "中央大街步行街", "searchName": "中央大街步行街", "imageUrl": "/images/places/02.jpg", "imageTitle": "哈尔滨中央大街步行街", "lng": 126.6187053, "lat": 45.7746013, "type": "历史街区", "district": "道里区", "city": "哈尔滨" },
+    { "name": "索菲亚大教堂", "officialName": "圣·索菲亚教堂", "searchName": "圣·索菲亚教堂", "imageUrl": "/images/places/03.jpg", "imageTitle": "哈尔滨地标：索菲亚教堂", "lng": 126.6272082, "lat": 45.7701153, "type": "历史建筑", "district": "道里区", "city": "哈尔滨", "priceYuan": 20, "reservationDays": 1 },
+    { "name": "防洪纪念馆", "officialName": "哈尔滨市人民防洪胜利纪念塔", "searchName": "哈尔滨市人民防洪胜利纪念塔", "imageUrl": "/images/places/04.jpg", "imageTitle": "哈尔滨市人民防洪胜利纪念塔", "lng": 126.6172452, "lat": 45.7805948, "type": "城市地标", "district": "道里区", "city": "哈尔滨" },
+    { "name": "松花江铁路桥", "officialName": "滨洲铁路桥", "searchName": "滨洲铁路桥", "imageUrl": "/images/places/05.jpg", "imageTitle": "松花江滨洲铁路桥", "lng": 126.625863, "lat": 45.7843817, "type": "历史桥梁", "district": "道外区", "city": "哈尔滨" },
+    { "name": "巴洛克风情街", "officialName": "中华巴洛克历史文化街区", "searchName": "中华巴洛克历史文化街区", "imageUrl": "/images/places/06.jpg", "imageTitle": "哈尔滨中华巴洛克历史文化街区", "amapId": "B0FFFX17PB", "adcode": "230104", "typecode": "110202|060000", "address": "南头道街64号", "lng": 126.640729, "lat": 45.781791, "type": "历史街区", "district": "道外区", "city": "哈尔滨" },
+    { "name": "松花江索道", "officialName": "松花江观光索道", "searchName": "松花江观光索道", "imageUrl": "/images/places/07.jpg", "imageTitle": "哈尔滨松花江观光索道", "lng": 126.610576, "lat": 45.7780314, "type": "观光体验", "district": "道里区", "city": "哈尔滨" },
+    { "name": "极地公园", "officialName": "哈尔滨极地公园", "searchName": "哈尔滨极地公园", "imageUrl": "/images/places/08.jpg", "imageTitle": "哈尔滨极地公园", "lng": 126.5864152, "lat": 45.7847289, "type": "主题公园", "district": "松北区", "city": "哈尔滨" },
+    { "name": "东北虎林园", "officialName": "东北虎林园", "searchName": "东北虎林园", "imageUrl": "/images/places/09.jpg", "imageTitle": "哈尔滨东北虎林园", "lng": 126.6027037, "lat": 45.8168562, "type": "动物园", "district": "松北区", "city": "哈尔滨", "priceYuan": 90, "reservationDays": 1 },
+    { "name": "哈尔滨大剧院", "officialName": "哈尔滨大剧院", "searchName": "哈尔滨大剧院", "imageUrl": "/images/places/10.jpg", "imageTitle": "哈尔滨大剧院", "lng": 126.5874001, "lat": 45.8095701, "type": "文化场馆", "district": "松北区", "city": "哈尔滨" },
+    { "name": "哈工大", "officialName": "哈尔滨工业大学", "searchName": "哈尔滨工业大学", "imageUrl": "/images/places/11.jpg", "imageTitle": "哈尔滨工业大学", "lng": 126.6314958, "lat": 45.7435212, "type": "高校", "district": "南岗区", "city": "哈尔滨", "reservationDays": 7 },
+    { "name": "哈药六厂", "officialName": "哈药集团制药六厂", "searchName": "哈药集团制药六厂", "imageUrl": "/images/places/12.jpg", "imageTitle": "哈尔滨哈药六厂", "lng": 126.7049204, "lat": 45.7650268, "type": "工业建筑", "district": "道外区", "city": "哈尔滨", "reservationDays": 7 },
+    { "name": "龙塔", "officialName": "龙塔", "searchName": "龙塔", "imageUrl": "/images/places/13.jpg", "imageTitle": "哈尔滨龙塔", "lng": 126.6801721, "lat": 45.7485611, "type": "城市地标", "district": "南岗区", "city": "哈尔滨" },
+    { "name": "黑龙江博物馆", "officialName": "黑龙江省博物馆", "searchName": "黑龙江省博物馆", "imageUrl": "/images/places/14.jpg", "imageTitle": "黑龙江省博物馆", "lng": 126.6410872, "lat": 45.7575803, "type": "博物馆", "district": "南岗区", "city": "哈尔滨", "reservationDays": 7 },
+    { "name": "伏尔加庄园", "officialName": "伏尔加庄园", "searchName": "伏尔加庄园", "imageUrl": "/images/places/15.jpg", "imageTitle": "哈尔滨伏尔加庄园", "lng": 126.9036162, "lat": 45.6741984, "type": "旅游景区", "district": "香坊区", "city": "哈尔滨", "priceYuan": 100 },
+    { "name": "冰雪大世界", "officialName": "哈尔滨冰雪大世界", "searchName": "哈尔滨冰雪大世界", "imageUrl": "/images/places/16.jpg", "imageTitle": "哈尔滨冰雪大世界", "lng": 126.5623907, "lat": 45.7772817, "type": "主题公园", "district": "松北区", "city": "哈尔滨" },
+    { "name": "澜亭水汇", "officialName": "澜亭水汇", "searchName": "澜亭水汇", "imageUrl": "/images/places/18.jpg", "imageTitle": "哈尔滨澜亭水汇", "amapId": "B0I6HDWIYI", "adcode": "230102", "typecode": "071400", "address": "群力街道群力第五大道1201号关东古巷对面", "lng": 126.564224, "lat": 45.735652, "type": "休闲场所", "district": "道里区", "city": "哈尔滨" },
+    { "name": "瓦西里俄式西餐厅", "officialName": "瓦西里俄式西餐厅", "searchName": "瓦西里俄式西餐厅", "imageUrl": "/images/places/19.jpg", "imageTitle": "哈尔滨俄式西餐厅", "amapId": "B0K3U7PV3H", "adcode": "230102", "typecode": "050200", "address": "中医街75号(友谊宫地铁站2号口步行450米)", "lng": 126.614663, "lat": 45.774532, "type": "餐厅", "district": "道里区", "city": "哈尔滨" },
+    { "name": "裕昌食品(中央大街店)", "officialName": "裕昌食品(中央大街店)", "searchName": "裕昌食品(中央大街店)", "imageUrl": "/images/places/20.jpg", "imageTitle": "哈尔滨中央大街美食", "amapId": "B0IK2Z9UXC", "adcode": "230102", "typecode": "050000", "address": "中央大街148号", "lng": 126.618576, "lat": 45.774799, "type": "餐饮", "district": "道里区", "city": "哈尔滨" },
+    { "name": "哈尔滨站", "officialName": "哈尔滨站", "searchName": "哈尔滨站", "imageUrl": "/images/places/21.jpg", "imageTitle": "哈尔滨火车站", "amapId": "B01C300049", "adcode": "230103", "typecode": "150200", "address": "铁路街1号", "lng": 126.63269, "lat": 45.761621, "type": "火车站", "district": "南岗区", "city": "哈尔滨" },
+    { "name": "太平机场", "officialName": "哈尔滨太平国际机场", "searchName": "哈尔滨太平国际机场", "imageUrl": "/images/places/22.jpg", "imageTitle": "哈尔滨太平国际机场", "lng": 126.2354583, "lat": 45.6075566, "type": "机场", "district": "道里区", "city": "哈尔滨" },
+    { "name": "亚季酒店", "officialName": "亚季酒店", "searchName": "亚季酒店", "imageUrl": "/images/places/23.jpg", "imageTitle": "哈尔滨机场附近的亚季酒店", "lng": 126.232273, "lat": 45.638065, "type": "酒店", "district": "道里区", "city": "哈尔滨", "source": "用户提供坐标" },
+    { "name": "全季酒店(哈尔滨中央大街人民广场店)", "officialName": "全季酒店(哈尔滨中央大街人民广场店)", "searchName": "全季酒店(哈尔滨中央大街人民广场店)", "imageUrl": "/images/places/24.jpg", "imageTitle": "哈尔滨全季酒店", "amapId": "B01C31ANQ9", "adcode": "230102", "typecode": "100105", "address": "友谊路392号(上海街地铁站3号口步行310米)", "lng": 126.599566, "lat": 45.767892, "type": "酒店", "district": "道里区", "city": "哈尔滨" }
+      ],
+      "connections": [
+    { "from": "太平机场", "to": "亚季酒店", "type": "接驳" },
+    { "from": "亚季酒店", "to": "全季酒店(哈尔滨中央大街人民广场店)", "type": "DAY-1" },
+    { "from": "全季酒店(哈尔滨中央大街人民广场店)", "to": "哈工大", "type": "DAY-1" },
+    { "from": "哈工大", "to": "黑龙江博物馆", "type": "DAY-1" },
+    { "from": "黑龙江博物馆", "to": "哈尔滨站", "type": "DAY-1" },
+    { "from": "哈尔滨站", "to": "澜亭水汇", "type": "DAY-1" },
+    { "from": "红专街早市", "to": "松花江索道", "type": "DAY-2" },
+    { "from": "松花江索道", "to": "极地公园", "type": "DAY-2" },
+    { "from": "极地公园", "to": "哈尔滨大剧院", "type": "DAY-2" },
+    { "from": "哈尔滨大剧院", "to": "东北虎林园", "type": "DAY-2" },
+    { "from": "东北虎林园", "to": "松花江铁路桥", "type": "DAY-2" },
+    { "from": "松花江铁路桥", "to": "巴洛克风情街", "type": "DAY-2" },
+    { "from": "巴洛克风情街", "to": "防洪纪念馆", "type": "DAY-2" },
+    { "from": "防洪纪念馆", "to": "瓦西里俄式西餐厅", "type": "DAY-2" },
+    { "from": "瓦西里俄式西餐厅", "to": "中央大街", "type": "DAY-2" },
+    { "from": "中央大街", "to": "索菲亚大教堂", "type": "DAY-2" },
+    { "from": "伏尔加庄园", "to": "哈药六厂", "type": "DAY-3" },
+    { "from": "哈药六厂", "to": "龙塔", "type": "DAY-3" }
+      ],
+      "dayPlans": [
+    {
+      "label": "DAY-1",
+      "members": ["太平机场", "亚季酒店", "全季酒店(哈尔滨中央大街人民广场店)", "哈工大", "黑龙江博物馆", "哈尔滨站", "澜亭水汇"]
+    },
+    {
+      "label": "DAY-2",
+      "members": ["红专街早市", "松花江索道", "极地公园", "哈尔滨大剧院", "东北虎林园", "松花江铁路桥", "巴洛克风情街", "防洪纪念馆", "瓦西里俄式西餐厅", "中央大街", "索菲亚大教堂"]
+    },
+    {
+      "label": "DAY-3",
+      "members": ["伏尔加庄园", "哈药六厂", "龙塔"]
+    }
+      ]
+    },
+    { "name": "港珠澳", "date": "2026年10月2日", "dateTime": "2026-10-02", "center": [113.543873, 22.198745], "places": [], "connections": [], "dayPlans": [] },
+    { "name": "香港", "date": "2026年10月3日", "dateTime": "2026-10-03", "center": [114.169361, 22.319303], "places": [], "connections": [], "dayPlans": [] },
+    { "name": "青海敦煌", "date": "2026年10月4日", "dateTime": "2026-10-04", "center": [94.661967, 40.142128], "places": [], "connections": [], "dayPlans": [] },
+    { "name": "贵湘", "date": "2026年10月5日", "dateTime": "2026-10-05", "center": [108.944259, 27.394395], "places": [], "connections": [], "dayPlans": [] }
+  ]
+}
