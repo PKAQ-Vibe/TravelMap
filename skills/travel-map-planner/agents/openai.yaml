@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行地图规划与实现"
+  short_description: "规划并实现带精确点位、DAY路线和悬浮面板的旅行地图"
+  default_prompt: "使用旅行地图规划与实现规范整理行程数据并更新地图。"
