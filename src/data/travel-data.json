@@ -26,17 +26,13 @@
     { "name": "伏尔加庄园", "officialName": "伏尔加庄园", "searchName": "伏尔加庄园", "imageUrl": "/images/places/15.jpg", "imageTitle": "哈尔滨伏尔加庄园", "lng": 126.9036162, "lat": 45.6741984, "type": "旅游景区", "district": "香坊区", "city": "哈尔滨", "priceYuan": 100 },
     { "name": "冰雪大世界", "officialName": "哈尔滨冰雪大世界", "searchName": "哈尔滨冰雪大世界", "imageUrl": "/images/places/16.jpg", "imageTitle": "哈尔滨冰雪大世界", "lng": 126.5623907, "lat": 45.7772817, "type": "主题公园", "district": "松北区", "city": "哈尔滨" },
     { "name": "澜亭水汇", "officialName": "澜亭水汇", "searchName": "澜亭水汇", "imageUrl": "/images/places/18.jpg", "imageTitle": "哈尔滨澜亭水汇", "amapId": "B0I6HDWIYI", "adcode": "230102", "typecode": "071400", "address": "群力街道群力第五大道1201号关东古巷对面", "lng": 126.564224, "lat": 45.735652, "type": "休闲场所", "district": "道里区", "city": "哈尔滨" },
-    { "name": "瓦西里俄式西餐厅", "officialName": "瓦西里俄式西餐厅", "searchName": "瓦西里俄式西餐厅", "imageUrl": "/images/places/19.jpg", "imageTitle": "哈尔滨俄式西餐厅", "amapId": "B0K3U7PV3H", "adcode": "230102", "typecode": "050200", "address": "中医街75号(友谊宫地铁站2号口步行450米)", "lng": 126.614663, "lat": 45.774532, "type": "餐厅", "district": "道里区", "city": "哈尔滨" },
-    { "name": "裕昌食品(中央大街店)", "officialName": "裕昌食品(中央大街店)", "searchName": "裕昌食品(中央大街店)", "imageUrl": "/images/places/20.jpg", "imageTitle": "哈尔滨中央大街美食", "amapId": "B0IK2Z9UXC", "adcode": "230102", "typecode": "050000", "address": "中央大街148号", "lng": 126.618576, "lat": 45.774799, "type": "餐饮", "district": "道里区", "city": "哈尔滨" },
     { "name": "哈尔滨站", "officialName": "哈尔滨站", "searchName": "哈尔滨站", "imageUrl": "/images/places/21.jpg", "imageTitle": "哈尔滨火车站", "amapId": "B01C300049", "adcode": "230103", "typecode": "150200", "address": "铁路街1号", "lng": 126.63269, "lat": 45.761621, "type": "火车站", "district": "南岗区", "city": "哈尔滨" },
     { "name": "太平机场", "officialName": "哈尔滨太平国际机场", "searchName": "哈尔滨太平国际机场", "imageUrl": "/images/places/22.jpg", "imageTitle": "哈尔滨太平国际机场", "lng": 126.2354583, "lat": 45.6075566, "type": "机场", "district": "道里区", "city": "哈尔滨" },
-    { "name": "亚季酒店", "officialName": "亚季酒店", "searchName": "亚季酒店", "imageUrl": "/images/places/23.jpg", "imageTitle": "哈尔滨机场附近的亚季酒店", "lng": 126.232273, "lat": 45.638065, "type": "酒店", "district": "道里区", "city": "哈尔滨", "source": "用户提供坐标" },
-    { "name": "全季酒店(哈尔滨中央大街人民广场店)", "officialName": "全季酒店(哈尔滨中央大街人民广场店)", "searchName": "全季酒店(哈尔滨中央大街人民广场店)", "imageUrl": "/images/places/24.jpg", "imageTitle": "哈尔滨全季酒店", "amapId": "B01C31ANQ9", "adcode": "230102", "typecode": "100105", "address": "友谊路392号(上海街地铁站3号口步行310米)", "lng": 126.599566, "lat": 45.767892, "type": "酒店", "district": "道里区", "city": "哈尔滨" }
+    { "name": "亚季酒店", "officialName": "亚季酒店", "searchName": "亚季酒店", "imageUrl": "/images/places/23.jpg", "imageTitle": "哈尔滨机场附近的亚季酒店", "lng": 126.232273, "lat": 45.638065, "type": "酒店", "district": "道里区", "city": "哈尔滨", "source": "用户提供坐标" }
       ],
       "connections": [
     { "from": "太平机场", "to": "亚季酒店", "type": "接驳" },
-    { "from": "亚季酒店", "to": "全季酒店(哈尔滨中央大街人民广场店)", "type": "DAY-1" },
-    { "from": "全季酒店(哈尔滨中央大街人民广场店)", "to": "哈工大", "type": "DAY-1" },
+    { "from": "亚季酒店", "to": "哈工大", "type": "DAY-1" },
     { "from": "哈工大", "to": "黑龙江博物馆", "type": "DAY-1" },
     { "from": "黑龙江博物馆", "to": "哈尔滨站", "type": "DAY-1" },
     { "from": "哈尔滨站", "to": "澜亭水汇", "type": "DAY-1" },
@@ -47,8 +43,7 @@
     { "from": "东北虎林园", "to": "松花江铁路桥", "type": "DAY-2" },
     { "from": "松花江铁路桥", "to": "巴洛克风情街", "type": "DAY-2" },
     { "from": "巴洛克风情街", "to": "防洪纪念馆", "type": "DAY-2" },
-    { "from": "防洪纪念馆", "to": "瓦西里俄式西餐厅", "type": "DAY-2" },
-    { "from": "瓦西里俄式西餐厅", "to": "中央大街", "type": "DAY-2" },
+    { "from": "防洪纪念馆", "to": "中央大街", "type": "DAY-2" },
     { "from": "中央大街", "to": "索菲亚大教堂", "type": "DAY-2" },
     { "from": "伏尔加庄园", "to": "哈药六厂", "type": "DAY-3" },
     { "from": "哈药六厂", "to": "龙塔", "type": "DAY-3" }
@@ -56,11 +51,11 @@
       "dayPlans": [
     {
       "label": "DAY-1",
-      "members": ["太平机场", "亚季酒店", "全季酒店(哈尔滨中央大街人民广场店)", "哈工大", "黑龙江博物馆", "哈尔滨站", "澜亭水汇"]
+      "members": ["太平机场", "亚季酒店", "哈工大", "黑龙江博物馆", "哈尔滨站", "澜亭水汇"]
     },
     {
       "label": "DAY-2",
-      "members": ["红专街早市", "松花江索道", "极地公园", "哈尔滨大剧院", "东北虎林园", "松花江铁路桥", "巴洛克风情街", "防洪纪念馆", "瓦西里俄式西餐厅", "中央大街", "索菲亚大教堂"]
+      "members": ["红专街早市", "松花江索道", "极地公园", "哈尔滨大剧院", "东北虎林园", "松花江铁路桥", "巴洛克风情街", "防洪纪念馆", "中央大街", "索菲亚大教堂"]
     },
     {
       "label": "DAY-3",
